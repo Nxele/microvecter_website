@@ -1,0 +1,14 @@
+
+
+
+*** scripts are for sending emails to the company important folders mail and jc for validation ***
+<!--Email Contact Form JavaScript -->
+  <script src="js/jqBootstrapValidation.js"></script>
+  <script src="js/contact_me.js"></script>
+
+*** script for hiding nav-menu-bar on mobile devices folders js ! note position bottom ****
+</script>
+<!--Menu Theme JavaScript -->
+    <script src="js/grayscale.min.js"></script>
+  <!--Menu Theme Bootstrap Core JavaScript -->
+    <script src="js\bootstrap.min.js"></script>
